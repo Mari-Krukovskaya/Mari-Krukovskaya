@@ -29,7 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
   <img alt="Ubuntu" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" width="40" height="40"/>&nbsp;
-  
+  <img alt="Jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"  width="40" height="40"/>&nbsp;
+  <img alt="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" width="40" height="40"/>&nbsp;
 <!--
 **Mari-Krukovskaya/Mari-Krukovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
