@@ -11,17 +11,18 @@
     <a href="https://t.me/Mari_Kruk">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-</div>
+
   
-  ### ⚡️ A Few Quick Facts
+ ### ⚡️ A Few Quick Facts
   <ul>
  <li>👩🏻🎓 I study at the Hexlet online programming school.</li>
-    <li>🎓 Two projects have been implemented</li>
+ <li>🎓 Two projects have been implemented</li>
  <li>🌱 I am currently looking for a job as a Frontend developer.</li>
 <!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
  <li>🎉 Interesting facts: I love traveling :world_map:, sport :man_playing_handball:, music :musical_keyboard:. read books :book:</li>
  <li>📫 mari.krukovskaya.97@mail.ru </li>
 </ul>
+</div>
 <!--
 **Mari-Krukovskaya/Mari-Krukovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
