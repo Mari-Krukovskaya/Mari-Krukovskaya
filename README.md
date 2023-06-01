@@ -13,16 +13,13 @@
   </a>
 </div>
   
-  <h2>⚡️ A Few Quick Facts</h2>
-  <ul>
- <li>👩🏻🎓 I study at the Hexlet online programming school.</li>
- <li>🎓 Two projects have been implemented</li>
- <li>🌱 I am currently looking for a job as a Frontend developer.</li>
-<!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
- <li>🎉 Interesting facts: I love traveling :world_map:, sport :man_playing_handball:, music :musical_keyboard:. read books :book:</li>
- <li>📫 mari.krukovskaya.97@mail.ru </li>
-</ul>
-  
+  ### About me 
+ - 👩🏻🎓 I study at the Hexlet online programming school.
+ - 🎓 Two projects have been implemented.
+ - 🌱I am currently looking for a job as a Frontend developer.
+ -📙 Check out my <a href="https://cv.hexlet.io/ru/account/resumes">resume</a>.
+ - 🎉Interesting facts: I love traveling :world_map:, sport :man_playing_handball:, music :musical_keyboard:. read books :book:.
+ -📫 mari.krukovskaya.97@mail.ru.
 <!--
 **Mari-Krukovskaya/Mari-Krukovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
