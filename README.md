@@ -19,8 +19,8 @@
  - 🎓 Two projects have been implemented.
  - 🌱I am currently looking for a job as a Frontend developer.
  -📙 Check out my <a href="https://cv.hexlet.io/ru/account/resumes">resume</a>.
- - 🎉Interesting facts: I love traveling :world_map:, sport :man_playing_handball:, music :musical_keyboard:. read books :book:.
- -📫 mari.krukovskaya.97@mail.ru.
+ - 🎉Interesting facts: I love traveling :world_map:, sport :man_playing_handball:, music :musical_keyboard:. read books :book:
+ - 📫 mari.krukovskaya.97@mail.ru.
   
   ### 🛠️ Languages and tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
