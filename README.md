@@ -13,7 +13,7 @@
   </a>
 </div>
   
- ### ⚡️ A Few Quick Facts
+  <h2>⚡️ A Few Quick Facts</h2>
   <ul>
  <li>👩🏻🎓 I study at the Hexlet online programming school.</li>
  <li>🎓 Two projects have been implemented</li>
