@@ -8,6 +8,7 @@
   </a>
 
   <a href="telegram-url">
+    <a href="https://t.me/Mari_Kruk">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
