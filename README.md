@@ -35,8 +35,11 @@
   ### 🚀 My projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Krukovskaya&repo=frontend-project-44&theme=blueberry)](https://github.com/Mari-Krukovskaya/frontend-project-44)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Krukovskaya&repo=frontend-project-46&theme=blueberry)](https://github.com/Mari-Krukovskaya/frontend-project-46)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Krukovskaya&repo=frontend-project-11&theme=blueberry)](https://github.com/Mari-Krukovskaya/frontend-project-11)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Krukovskaya&repo=frontend-project-12&theme=blueberry)](https://github.com/Mari-Krukovskaya/frontend-project-12)
+
   
-  ### ✨ GitHub Stats:
+  ### ✨ GitHub Status:
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mari-Krukovskaya&theme=jolly"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mari-Krukovskaya&theme=jolly"/>
