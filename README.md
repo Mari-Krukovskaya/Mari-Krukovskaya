@@ -15,8 +15,8 @@
 </div>
   
   ### About me 
- - 👩🏻🎓 I study at the Hexlet online programming school.
- - 🎓 Two projects have been implemented.
+ - 👩🏻🎓 graduated from the Hexlet online platform with a degree in frontend developer.
+ - 🎓 4 projects have already been implemented, and I continue to replenish my portfolio on my own.
  - 🌱 I am currently looking for a job as a Frontend developer.
  - 🎉Interesting facts: I love traveling :world_map:, sport :man_playing_handball:, music :musical_keyboard:. read books :book:
  - 📫 mari.krukovskaya.97@mail.ru.
