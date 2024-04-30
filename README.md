@@ -36,6 +36,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Krukovskaya&repo=frontend-project-46&theme=blueberry)](https://github.com/Mari-Krukovskaya/frontend-project-46)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Krukovskaya&repo=frontend-project-11&theme=blueberry)](https://github.com/Mari-Krukovskaya/frontend-project-11)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Krukovskaya&repo=frontend-project-12&theme=blueberry)](https://github.com/Mari-Krukovskaya/frontend-project-12)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mari-Krukovskaya&repo=ECOMOBIL&theme=blueberry)](https://github.com/Mari-Krukovskaya/ECOMOBIL)
 
   
   ### ✨ GitHub Status:
