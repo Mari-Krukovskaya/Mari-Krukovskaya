@@ -18,7 +18,7 @@
  - 👩🏻🎓 I study at the Hexlet online programming school.
  - 🎓 Two projects have been implemented.
  - 🌱 I am currently looking for a job as a Frontend developer.
- - 📙 Check out my <a href="https://cv.hexlet.io/ru/account/resumes">resume</a>.
+ - 📙 Check out my <a href="(https://rabota.by/resume/9209d75cff0c062dfc0039ed1f3471514f3932?hhtmFrom=resume_list)">resume</a>.
  - 🎉Interesting facts: I love traveling :world_map:, sport :man_playing_handball:, music :musical_keyboard:. read books :book:
  - 📫 mari.krukovskaya.97@mail.ru.
   
